@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# DYCHAR
+templates/app/aspnet-core/src/Dychar.Dyf.Dyadmin.Web/wwwroot/libs/*.*
+/modules/knowledge-management/app/HdKnowledgeManagement.Web/wwwroot/libs
